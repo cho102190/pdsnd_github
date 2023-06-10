@@ -9,6 +9,9 @@ US Bike Share
 ### Description
 Learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics such as popular times of travel, popular stations and trip, trip duration, and user info.
 
+### Goals and objectives
+To understand the usage of bikeshare services offered in cities so that cities can develop more efficient marketing strategies
+
 ### Files used
 bikeshare.py
 
