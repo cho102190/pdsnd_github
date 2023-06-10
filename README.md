@@ -12,6 +12,9 @@ Learn about bike share use in Chicago, New York City, and Washington by computin
 ### Goals and objectives
 To understand the usage of bikeshare services offered in cities so that cities can develop more efficient marketing strategies
 
+### Tips
+Enter the input exactly as the question shows 
+
 ### Files used
 bikeshare.py
 
